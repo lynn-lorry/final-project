@@ -64,7 +64,7 @@ $carousel-control-next-icon-bg:      url("data:image/svg+xml,<svg xmlns='http://
 $carousel-transition-duration:       .6s;
 $carousel-transition:                transform $carousel-transition-duration ease-in-out; // Define transform transition first if using multiple transitions (e.g., `transform 2s ease, opacity .5s ease-out`) */
 
-  .card-body{
+  /* .card-body{
     width: 100px;
     height: 150px;
     background-color: #460c46;
@@ -78,10 +78,13 @@ $carousel-transition:                transform $carousel-transition-duration eas
     justify-content: center;
     flex-wrap: wrap;
     gap: 25px;
-    margin-top: 100px;
-  }
+    margin-top: 100px; */
+  /* } */
+  /* .our values{
+    border-radius: 10px; */
+  /* } */
   
-    .our values, h2{
+    .our values h2{
     text-align: center;
     color: #460c46;
   }
