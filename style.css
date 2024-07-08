@@ -5,7 +5,7 @@
     padding: 20px;
 }
 .header img {
-height: 100px;
+    height: 100px;
     width: 200px;
     text-align: justify;
     
@@ -95,7 +95,7 @@ $carousel-transition:                transform $carousel-transition-duration eas
     padding: 30px;
     text-align: center;
     background: #460c46;
-    margin-top: 20px;
+    /* margin: 20px; */
     
   }
   .footer p{
