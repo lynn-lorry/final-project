@@ -12,6 +12,7 @@
      padding: 30px;
      margin: 0%;
      height: 100%;
+     background-color: #FFF9D8;
      
     /* top: 0;
     left: 0;
@@ -23,12 +24,15 @@
 }
 .container{
   overflow: hidden;
+  background-color: #FFF9D8;
   
 }
 .text{
   float: left;
   width: 60%;
   padding-right: 20px;
+  color: purple;
+  background-color: #FFF9D8;
 
 }
 .image{
@@ -39,7 +43,46 @@
 .all{
   background-color:#FFF9D8 ;
 }
-  
+.text7{
+  position: absolute;
+  top: 50%;
+  left: 28%;
+  transform:(0%, -50%);
+  text-align: center;
+  color: yellow;
+  font-weight: 1000px;
+}
+  .heading2{
+    text-align: center;
+    font-weight:1000px ;
+    color: purple;
+    background-color: #FFF9D8;
+  }
+  .heading8{
+    text-align: center;
+    font-weight:1000px ;
+    color: purple;
+    background-color: #FFF9D8;
+  }
+  .container2{
+    display: flex;
+    
+  }
+  .container2{
+    overflow: hidden;
+    background-color: #FFF9D8;
+  }
+  .text2{
+    float: right;
+    width: 60%;
+    padding-right: 20px;
+    color: purple;
+    
+  }
+ .image2{
+  float: left;
+  width: 40%;
+ }
     
 
 
@@ -49,15 +92,26 @@
     text-align: center;
     font-weight: 800;
     clear: left;
-    float: none;
+    float: left;
     width: 60%;
-    padding-right:20px ;
+    padding-left:0px ;
+    margin-top: 80px;
+    position: absolute;
+    top: 87%;
+    left: 25%;
+    transform:(0%, -50%);
+    /* background-color: #FFF9D8; */
   }
   
 .full-width-image{
   width: 100vw;
-  height: 250px;
+  height: 380px;
   object-fit: cover;
   margin: 0;
   padding: 0;
+  
 }
+
+
+
+  
