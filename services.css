@@ -211,3 +211,124 @@ iframe{
 
 
   
+
+
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f5f5f5;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 20px;
+	color: #333;
+}
+
+h2 {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	color: #666;
+}
+
+form {
+	width: 50%;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+	margin-bottom: 20px;
+	position: relative;
+}
+
+.label {
+	display: block;
+	margin-bottom: 10px;
+	color: #666;
+}
+
+.form-control {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+.radio {
+	margin-right: 10px;
+}
+
+.radio-label {
+	display: block;
+	margin-bottom: 10px;
+	color: #666;
+
+}
+
+.underline {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 2px;
+	background-color: #ccc;
+}
+
+.submit-btn {
+	background-color: #333;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.submit-btn:hover {
+	background-color: #f7a80b;
+}
+
+
+
+form {
+	border: 3px solid #FF9900; /* Yellow border color */
+	padding: 20px;
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.label {
+	color: #7A288A; /* Purple color */
+}
+
+.submit-btn {
+	background-color: #F7DC6F; /* Yellow color */
+	color: #333;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+  font-size: 20px;
+  width:90px ;
+  height: 40px;
+  margin-left: 500px;
+}
+
+.smaller-btn {
+	padding: 5px 10px;
+	font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+

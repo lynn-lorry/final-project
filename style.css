@@ -33,7 +33,7 @@
   
   /* Change color on hover */
   .topnav a:hover {
-    background-color:white;
+    background-color:rgba(243, 214, 129, 0.959);
     color:rgb(219, 165, 219);
   }
  /* .card one{
@@ -270,3 +270,4 @@ text-align: center;
     width: 100%;
   }
 } */
+ 
