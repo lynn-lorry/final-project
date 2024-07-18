@@ -33,11 +33,7 @@
   
   /* Change color on hover */
   .topnav a:hover {
-<<<<<<< HEAD
     background-color:rgba(243, 214, 129, 0.959);
-=======
-    background-color:rgb(230, 205, 143);
->>>>>>> 17189556f5ec3f029dae65c70e028f7009af080c
     color:rgb(219, 165, 219);
   }
  /* .card one{
