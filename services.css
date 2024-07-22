@@ -27,14 +27,7 @@
   background-color: #FFF9D8;
   
 }
-.text{
-  float: left;
-  width: 60%;
-  padding-right: 20px;
-  color: purple;
-  background-color: #FFF9D8;
 
-}
 .image{
   float: right;
   width: 40%;
@@ -51,8 +44,8 @@
   transform:(0%, -50%);
   text-align: center;
   color: goldenrod;
-  font-weight: 100px;
-  background-color: transparent;
+  font-weight: 100;
+  /* background-color: transparent; */
 }
   .heading2{
     text-align: center;
@@ -135,7 +128,7 @@
   .image-text{
     color: purple;
     text-align: center;
-    font-weight: 800;
+    font-weight: 0;
     clear: left;
     float: left;
     width: 60%;
